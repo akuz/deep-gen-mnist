@@ -1,2 +1,2 @@
-# deep-gen-mnist
-Deep generative neural network for MNIST
+# generative-mnist
+Generative model example for MNIST
